@@ -1,2 +1,2 @@
-# josiahPublicRemoteRepo1
-Lab 1 – Git and GitHub exercises
+This repository is created for Lab 1 – Git and GitHub.
+Author: Josiah Okereke.
